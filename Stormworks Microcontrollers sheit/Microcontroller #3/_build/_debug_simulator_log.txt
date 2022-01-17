@@ -1,0 +1,13 @@
+1/16/2022 3:09:42 PM Launching, time stamp.
+1/16/2022 3:09:42 PM Opening connection on port 14238
+1/16/2022 3:09:42 PM Now Accepting TCP clients
+1/16/2022 3:09:42 PM MainWindow Initialized and running
+1/16/2022 3:09:42 PM Client accepted - Client Connected: True, beginning Message Loop
+
+1/16/2022 3:10:07 PM SocketReadTask - Exception - Closing Pipe - Client Connected: True - System.NullReferenceException: Object reference not set to an instance of an object.
+   at STORMWORKS_Simulator.TickHandler.OnLineRead(Object sender, String messageFromVS)
+   at STORMWORKS_Simulator.SocketConnection.<.ctor>b__13_0()
+
+
+1/16/2022 3:10:07 PM Pipe_OnPipeClosed - Closing Application
+
